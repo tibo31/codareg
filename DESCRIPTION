@@ -1,0 +1,15 @@
+Package: codareg
+Type: Package
+Title: Regression models involving compositional variables
+Version: 1.0
+Date: 2028-28-02
+Author: Ivan Rendo Barreiro, Thibault Laurent and Christine Thomas-Agnan
+Maintainer: Thibault Laurent <Thibault.Laurent@tse-fr.eu>
+Description: It computes elasticities and semi-elasticities for CoDa regression models. It is based on Morais and Thomas-Agnan (2020).  
+License: GPL-2
+LazyData: true
+VignetteBuilder: knitr
+Suggests: rmarkdown, knitr
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Packaged: 2021-07-19 11:20:55 UTC; ivanrendobarreiro

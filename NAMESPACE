@@ -1,0 +1,10 @@
+importFrom("stats", "quantile")
+importFrom("stats", "terms")
+export("alr", "alr_x_impacts", "alr_x_reg", "alr_y_impacts",
+       "alr_y_reg", "alr_yx_impacts", "alr_yx_reg", "b_cov",
+       "check_formula", "closure", "est_var", "F_D", "ilr",
+       "ilr_x_impacts", "ilr_x_reg", "ilr_y_impacts", "ilr_y_reg",
+       "ilr_yx_impacts", "ilr_yx_reg", "imp_summary", "impacts",
+       "inv_permutation_D", "inversealr", "inverseilr", "K_D",
+       "mlm", "P_D", "permutation_D", "reg",
+       "share_ratio_summary", "V_D", "var2alr", "var2ilr")
